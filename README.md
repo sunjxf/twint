@@ -20,7 +20,7 @@ pip install urllib3==1.25.11
 3. 下载源码，从源码安装 twint
 
 ```
-git clone --depth=1 https://github.com/twintproject/twint.git
+git clone --depth=1 git@github.com:sunjxf/twint.git
 cd twint
 pip3 install . -r requirements.txt
 ```
